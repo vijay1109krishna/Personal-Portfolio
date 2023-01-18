@@ -1,2 +1,1 @@
-# portfilo
-Vüsal Hüseynov - Portfilo 
+VIJAY KRISHNA - Portfilo 
